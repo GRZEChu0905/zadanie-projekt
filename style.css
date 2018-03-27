@@ -1,3 +1,10 @@
-body{
+
+.div 
+{
+    background-color: wheat;
+}
+
+body
+{
     background-color: aqua;
 }
